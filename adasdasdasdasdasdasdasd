@@ -1,0 +1,30 @@
+[33mcommit 43b2352ac0322a4797f1b074010123ab07988034[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 6f47af9 6d50fab
+Author: tienpahm <phamtienacu@gmail.com>
+Date:   Wed Jun 30 02:28:54 2021 +1000
+
+    Merge branch 'text-branch'
+
+[33mcommit 6d50fabf95e759f930503545229c2c480c7aa0bf[m[33m ([m[1;31morigin/text-branch[m[33m, [m[1;32mtext-branch[m[33m)[m
+Author: tienpahm <phamtienacu@gmail.com>
+Date:   Wed Jun 30 02:28:09 2021 +1000
+
+    first commit on tb
+
+[33mcommit 6f47af9816aa9d07fc536c9222c1995b61e5c1e1[m
+Author: tienpahm <phamtienacu@gmail.com>
+Date:   Wed Jun 30 02:22:44 2021 +1000
+
+    create more
+
+[33mcommit 5331d6ad9407ae99978c066f727c5b282b41bb39[m
+Author: tienpahm <phamtienacu@gmail.com>
+Date:   Wed Jun 30 02:17:10 2021 +1000
+
+    create test
+
+[33mcommit 73d015bf13d632e73a6f4974a079a26a694d2463[m
+Author: tienpahm <phamtienacu@gmail.com>
+Date:   Wed Jun 30 02:13:46 2021 +1000
+
+    Initial create story
